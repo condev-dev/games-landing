@@ -1,9 +1,11 @@
-# 🎮 Con Dev | Web Games Landing
+# 🎮 Web Games Landing
 
 **Con Dev Games Landing** – A single-page showcase for five browser games, built with **HTML, CSS and Vanilla JavaScript**.
 Designed with **clean spacing, a real RTL layout, hand-authored SVG artwork and smooth micro-interactions**, perfect for portfolio showcase.
 
 > ⚡ **Portfolio-Level Project** – Showcasing Senior Front-End expertise in **RTL interfaces, responsive layout systems, inline SVG illustration and zero-dependency builds**.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-FF4A1C?style=for-the-badge&logo=vercel&logoColor=white)](https://games-landing-eta.vercel.app/)
 
 ---
 
@@ -53,27 +55,17 @@ Designed with **clean spacing, a real RTL layout, hand-authored SVG artwork and 
 
 ---
 
-### 🧩 Behind The Scenes
-
-*The build principles, laid out as a numbered ledger.*
-
-![Behind The Scenes](https://raw.githubusercontent.com/condev-dev/games-landing/main/assets/img/Craft-Demo.png)
-
----
-
-### ✉️ Contact
-
-*Dark call-to-action block with the resume and Instagram links, above the footer.*
-
-![Contact](https://raw.githubusercontent.com/condev-dev/games-landing/main/assets/img/Contact-Demo.png)
-
----
-
 ### 📱 Mobile
 
 *Single-column cards and a collapsed nav, down to a 390px viewport.*
 
 <img src="https://raw.githubusercontent.com/condev-dev/games-landing/main/assets/img/Mobile-Demo.png" width="320" alt="Mobile">
+
+---
+
+### 🔗 Live Demo
+
+**[games-landing-eta.vercel.app](https://games-landing-eta.vercel.app/)**
 
 </div>
 
