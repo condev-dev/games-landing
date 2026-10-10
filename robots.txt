@@ -1,0 +1,5 @@
+# robots.txt — https://games.condev.ir/
+User-agent: *
+Allow: /
+
+Sitemap: https://games.condev.ir/sitemap.xml
